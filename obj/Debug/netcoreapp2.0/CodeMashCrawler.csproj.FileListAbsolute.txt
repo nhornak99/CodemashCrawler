@@ -1,0 +1,11 @@
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.csprojAssemblyReference.cache
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.AssemblyInfoInputs.cache
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.AssemblyInfo.cs
+D:\Personal Projects\CodeMashCrawler\bin\Debug\netcoreapp2.0\CodeMashCrawler.deps.json
+D:\Personal Projects\CodeMashCrawler\bin\Debug\netcoreapp2.0\CodeMashCrawler.runtimeconfig.json
+D:\Personal Projects\CodeMashCrawler\bin\Debug\netcoreapp2.0\CodeMashCrawler.runtimeconfig.dev.json
+D:\Personal Projects\CodeMashCrawler\bin\Debug\netcoreapp2.0\CodeMashCrawler.dll
+D:\Personal Projects\CodeMashCrawler\bin\Debug\netcoreapp2.0\CodeMashCrawler.pdb
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.dll
+D:\Personal Projects\CodeMashCrawler\obj\Debug\netcoreapp2.0\CodeMashCrawler.pdb

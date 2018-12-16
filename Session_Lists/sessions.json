@@ -1,0 +1,984 @@
+[
+    [
+        {
+            "Name": "A Better, Faster Pipeline for Software Delivery",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Best Practices for Robust API development in ASP.NET Core",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Build your own A.I. powered robot - Part 1",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Building Your First React App",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Design Thinking for Developers",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Introduction to Game Development with Unity Part 1",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Threat Modeling Workshop",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Up &amp; Running with Graph Databases",
+            "Date": "Tue 8:00 AM - 12:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Learning to Fly with Paper Airplanes",
+            "Date": "Tue 9:00 AM - 10:00 am"
+        }
+    ],
+    [
+        {
+            "Name": "Systems Thinking for Kids",
+            "Date": "Tue 10:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "Best Practices for Robust API development in ASP.NET Core (Part 2)",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Build Your First Design System",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Build your own A.I. powered robot - Part 2",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Building a Production-Ready React Native App",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Introduction to Game Development with Unity Part 2",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Successful Integration Testing in .Net",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Talking Cars: From Can&#39;t to CAN",
+            "Date": "Tue 1:00 PM - 5:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Puppets are AWESOME",
+            "Date": "Tue 1:00 PM - 2:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Crafting Chainmail",
+            "Date": "Tue 1:30 PM - 3:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Building Your First Video Game with Bloxels.",
+            "Date": "Tue 2:30 PM - 3:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "7 Languages in 7 Hours Part 1",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "A Hands-on Intro to Containers",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Accessibility: A Walk in Someone Else’s Shoes",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Charting a Course to Your Dream Job",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "CodeMash CryptoParty",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Data Science: Zero to Hero",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Get Up and Running Quickly With Vue.js",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Have Some Cake With Your Frosting: Testing Both the UI and API Layers",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Xamarin.Forms from Scratch to Store",
+            "Date": "Wed 8:00 AM - 12:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Great Ball Contraption Workshop",
+            "Date": "Wed 9:00 AM - 10:00 am"
+        }
+    ],
+    [
+        {
+            "Name": "Let’s Play A Game! Computer Hacking and Capture the Flag",
+            "Date": "Wed 9:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "Stargazing",
+            "Date": "Wed 10:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "7 Languages in 7 Hours Part 2",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Avoiding Landmines – A Tech Leader’s Guide for the Critical Decisions",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Building Your First Voice Experience with Alexa",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Corporate Single Sign-On: Building an OpenID Connect Provider in .NET with IdentityServer",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Digging Into your APIs with Exploratory Testing",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Experiencing A11y",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Give Feedback Fearlessly: Workshop",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Kubernetes hands-on (Workshop)",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Microservice Resiliency with Eureka and Hystrix - Java/Spring Edition",
+            "Date": "Wed 1:00 PM - 5:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Get Creative with Duct Tape!",
+            "Date": "Wed 1:00 PM - 2:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "A Slimy Adventure",
+            "Date": "Wed 2:30 PM - 3:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "A Swift Intro to iOS",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "AngularJS to Angular 6 Migration",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Code Reviews: That&#39;s a Great Idea!",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Collaborative Contract Driven Development",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Connected Data &amp; the Graph Database landscape",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Getting the most out of your next generation JVM testing framework",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "How a PoC at home can scale to Enterprise Level using Custom Vision APIs",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Introducing Juvet: Building Bots in Elixir",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Making and Baking an Application Security Department",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Management 101 - The Hard Parts &amp; Great Parts",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Operationalizing containers at scale",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "Practical Steps to Modernizing Legacy Applications",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "The Alchemy of User Experience",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        },
+        {
+            "Name": "What are Observables and why should I care?",
+            "Date": "Thu 8:00 AM - 9:00 am"
+        }
+    ],
+    [
+        {
+            "Name": "Collaborate on your LEGO(R) vision",
+            "Date": "Thu 9:00 AM - 10:00 am"
+        }
+    ],
+    [
+        {
+            "Name": "7 Reasons why your microservices should use Event Sourcing &amp; CQRS",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Asynchronicity: concurrency. A tale of",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Building Mobile Applications with the Ionic Framework",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "CircuitPython/MicroPython - How to get started",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Generate data for 10,000 unit tests",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Gradle with Ketchup",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Handling Angular 2+ Forms Without Losing Your Sanity",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Information Architecture For The Soul",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Is AI right for me?",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Leadership Guide for the Reluctant Leader",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "Scenario Testing for Teams",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "The Pragmatic Guide to Web Application Security",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        },
+        {
+            "Name": "TypeScript for C# Programmers",
+            "Date": "Thu 9:15 AM - 10:15 am"
+        }
+    ],
+    [
+        {
+            "Name": "So, You Want to Be a Game Designer? – A Board Game Jam",
+            "Date": "Thu 9:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "&quot;Did you get my message?&quot; - A comparison of several modern messaging platforms",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "12 skills every rookie programmer should have, but often don&#39;t",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Android Jetpack - Make Better Apps",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Building a better audit log",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Database Continuous Delivery &amp; Your Salvation!",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Don&#39;t Rewrite, React!",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Embrace your Legacy… Code",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Enhance Your Career with a Mastermind Group",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Have Your Pi and Eat It Too: .NET Core on Raspberry Pi",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Hey, You Got Your TDD in my SQL DB!",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Hold Up, Wait a Minute, Let Me Put Some Async In It",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "It&#39;s Only Rocket Science!",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Side Project Adherence - How to stick with a side project.",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        },
+        {
+            "Name": "Wait, CSS Can Do That?!",
+            "Date": "Thu 10:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "Begin Your Machine Learning Journey in the Public Cloud",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Debugging the Internet of Things with Traces",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "DevOps - Philosophy vs Practice",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "From Average to Awesome In a Few Short Years",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "git gone wild: how to recover from common git mistakes.",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Material Design won&#39;t rescue bad UX",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "React Native and Expo: Native Apps without the Native Pain",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Spring-loaded GraphQL",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Team Happiness for Fun and Profit",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "The Actor Model and why you should be using it",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "The Science of Testing",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Wait...My Mobile App Needs to Be PCI Compliant!??",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        },
+        {
+            "Name": "Webpack Encore: Webpack your App and Love it!",
+            "Date": "Thu 11:45 AM - 12:45 pm"
+        }
+    ],
+    [
+        {
+            "Name": "A Primer on Functional Programming",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Be an A11Y with React",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Database DevOps with Containers",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Debug Like It&#39;s Your Job",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Expand Your Testing with Virtual Services",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Higher-Order Promises",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Just because you can do something, doesn&#39;t mean you should!",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Kafka the hard parts.",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Kotlin, Going Native &amp; Beyond",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Learning the Three Types of Microservices",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Microservices Orchestration using Istio Service Mesh",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "The OWASP Proactive Controls 2018",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "The Reality War",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "The Well Architected Automation Framework",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        },
+        {
+            "Name": "Using Javascript to draw an animated Pok&#233; Ball",
+            "Date": "Thu 1:00 PM - 2:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "It&#39;s Sedimentary, My Dear Watson: Finding Fossils Near You",
+            "Date": "Thu 2:30 PM - 3:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Becoming an Effective Mentor",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Collaborating on Infrastructure as Code with Terraform",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Common Characteristics of the Greatest Developers",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Connect Data and Devices with Apache NiFi",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Continuous Delivery requires radical changes for testers",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Deep Learning like a Viking - Building Convolutional Neural Networks with Keras",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Extreme Performance Architecture",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Flutter for Android Developers",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Getting started in security with the OWASP ZAP HUD",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Pivot: How to proceed when things don&#39;t work out",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "React: The Big Picture",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "Service Blueprints: How the (User Experience) Sausage is Made",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "The Pi, Python, &amp; Paintball? Innovating with Affordable Tech!",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        },
+        {
+            "Name": "What&#39;s All The Fuss About Serverless?",
+            "Date": "Thu 3:30 PM - 4:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Accessibility Testing Techniques for Designers and Developers",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "AI Based Testing - The future of test automation",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Alternative Device Interfaces and Machine Learning",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Building Products Sustainably with Resilient Teams",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Generating Fractals in the Browser With Rust and WebAssembly",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "How do you change the world? By developing future women leaders",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Jump Into JSON. Rush Into REST.",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Metaprogramming in .NET",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Notebooks are still cool...with Jupyter",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Unit Testing in Sass",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "User-Story Driven Threat Modeling",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "Xamarin! Build native iOS and Android apps with .NET",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        },
+        {
+            "Name": "ZAPping Security Vulnerabilities in Your Development Pipeline",
+            "Date": "Thu 4:45 PM - 5:45 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Better Names for Better Code",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Building Letters for Livia in an Hour",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Desktop Applications in Electron",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "DISCovering your team: A Guide to Effective Communication",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Gathering Insights from Audio Data",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Getting Unstuck",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Hotness === Serverless - Learn how to harness the power of Lambda&#39;s in AWS",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "My users posted what?",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Seeking the holy Graal",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Service Workers in the Wild",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "The Agile DBA: A Guide To SQL Server DevOps With SSDT",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "The Automation Firehose: Be Strategic and Tactical",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        },
+        {
+            "Name": "Unraveling Realities: Building HoloLens Apps With Unity &amp; C#",
+            "Date": "Fri 8:30 AM - 9:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "Remove The Roadblox With Roblox Game Making 101",
+            "Date": "Fri 9:00 AM - 10:00 am"
+        }
+    ],
+    [
+        {
+            "Name": "Build a Binary Clock with a Raspberry Pi Zero Workshop",
+            "Date": "Fri 9:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "APIs on the Scale of Decades",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Augmenting Retro Consoles with New Hardware",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Code Checkup:  Tools to check the health of your code.",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "CSS !important",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Entity Framework debugging using SQL Server: A Detective Story",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "I&#39;d Hire more Women if they Would Apply!",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Mastering the Art of Mobile Testing",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Modern Identity Management (in the Era of Microservices and Serverless)",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Real Pirates Seek the C!",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Rekindle Your Love - Avoiding Burnout In A Fast Paced World",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Serverless security: defence against the dark arts",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Serverless? How About VENDORLESS?!",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Understand your brain to build better visualizations.",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        },
+        {
+            "Name": "Versioning 1.0.1",
+            "Date": "Fri 9:45 AM - 10:45 am"
+        }
+    ],
+    [
+        {
+            "Name": "Space Mission #251: Colonization",
+            "Date": "Fri 10:30 AM - 11:30 am"
+        }
+    ],
+    [
+        {
+            "Name": "12 Factor Apps Mobile Edition",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "A Crash Course in Video Game Pyschology",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "AI for Earth: Innovations in Data Collection for Machine Learning",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Always Be Delivering",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Data management in a Microservices world",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Exploring reactive programming in Java",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Insight from the Crowd",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Megahertz, Gigahertz, Registers and Instructions: How does a CPU actually work?",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Rock-Solid Components with Typescript and GraphQL",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Securing Your API Endpoints - A Practical Authentication Guide",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Testing Like You&#39;ve Never Tested Before (Because You Haven&#39;t)",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "THE STORIES OF THE MOST INFAMOUS BUGS",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "Time Management for the Distracted Developer",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        },
+        {
+            "Name": "What is a Command Bus?",
+            "Date": "Fri 11:00 AM - 12:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Automating the Software Delivery Pipeline: DevOps in the Real World",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Finding your place in the Cosmos: When and why you should consider Azure Cosmos DB.",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "How not to be the best app no one uses: Effective Onboarding for fun &amp; profit",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "How to Keep up with Technology: a Systems Based Approach",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Intro to Progressive Web Apps",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Kotlin in Android: Learnings from 3 years in production",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Modern 2FA in ASP.NET Core",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Patterns and Architectures Beyond Microservices",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Post Mortem: Dealing with Failure in Development",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Revisiting SOLID - Making the 5 principles easy enough to implement",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "The Admiral&#39;s Language of Choice",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "The Great Gatsby: Building Fast Static Sites in React",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Towards a responsible Internet of Things",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        },
+        {
+            "Name": "Your dreams don&#39;t work unless you do",
+            "Date": "Fri 12:15 PM - 1:15 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Fun Things To Do With Alexa",
+            "Date": "Fri 1:00 PM - 2:00 pm"
+        }
+    ],
+    [
+        {
+            "Name": "FUN WITH STICKS!!!",
+            "Date": "Fri 2:30 PM - 3:30 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Building A Highly Scalable Service that Survived A Super Bowl",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Building Blocks for Beautiful Cross-Platform Applications!",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Building Reusable, High Performance ETL Systems",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Can DevOps and Security be Friends?",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Climbing To The Top Of The Mobile Testing Pyramid",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Comments are Useless and Other Controversial Opinions About Code",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Design for inclusivity using Conversational Chatbots",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Esoteric Programming Languages",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "From Zero to Serverless",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Hardware is from Mars, Software is from Venus",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Premise: Promises",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "The Two Question Code Quiz: How to Interview Programmers Effectively",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        },
+        {
+            "Name": "Why are we talking about XSS in 2019?",
+            "Date": "Fri 2:45 PM - 3:45 pm"
+        }
+    ],
+    [
+        {
+            "Name": "Building An AppSec Program From The Ground Up: An Honest Retrospective",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Building Your Team to Last",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Convergence of Front-end Technologies",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Domain specific languages: Don&#39;t be scared",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Everyday Animations in Android",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Get More Miles Out of Your Legacy App!",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Hotdog Not Hotdog: Xamarin Android Things Primer",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "If Your Tests Could Talk",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Mommy, where do new programming languages come from?",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Power BI Custom Data Connectors - Your Data, Delivered!",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "Sustainable Styles: Fundamental Principles of CSS Architecture",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        },
+        {
+            "Name": "UI Tests Are Fun to Write (If You Write Them Right)",
+            "Date": "Fri 4:00 PM - 5:00 pm"
+        }
+    ]
+]
